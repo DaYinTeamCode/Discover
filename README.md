@@ -62,7 +62,7 @@
 <h2 id="4.0.0">四.下载地址</h2>
 
 
-  * 下载地址:[点击这里](https://fir.im/DouYu)
+  * 下载地址:[点击这里](https://www.pgyer.com/discover)
      
    ---
    
@@ -97,8 +97,8 @@
 <h2 id="7.0.0">七.Issuse Me</h2>
 
 
-  <div>&nbsp;&nbsp;&nbsp;&nbsp; 喜欢的小伙伴可以在右上角Star一下，在这过程中遇到什么问题与BUG ，欢迎大家[Issuse Me](https://github.com/GaoYin2016/Discover/issues</div>)
+  <div>&nbsp;&nbsp;&nbsp;&nbsp; 喜欢的小伙伴可以在右上角Star一下，在这过程中遇到什么问题与BUG ，欢迎大家[Issuse Me](https://github.com/GaoYin2016/Discover/issues)
    
-&nbsp;<h6><center> Copyright 2018 DaYin</center></h6>
+&nbsp;<h4><center> Copyright 2018 DaYin</center></h4>
 
 ---

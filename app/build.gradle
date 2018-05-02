@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-
+apply plugin: 'com.jakewharton.butterknife'
 android {
     compileSdkVersion 26
     defaultConfig {
@@ -25,4 +25,17 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+
+    // log
+    compile 'com.orhanobut:logger:1.15'
+    // RecyclerView
+    compile 'com.android.support:recyclerview-v7:26.1.0'
+    //黄油刀
+    compile 'com.jakewharton:butterknife:8.5.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+
+    compile 'com.alibaba:fastjson:1.2.9'//fastjson
+    compile 'com.facebook.fresco:fresco:1.7.1'
+    compile 'com.facebook.fresco:animated-gif:1.7.1'
+    compile 'com.facebook.fresco:webpsupport:1.7.1'
 }

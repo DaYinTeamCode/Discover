@@ -26,13 +26,15 @@
 
 ---
 
-- 1.添加Fresco图片加载图
+- 1.添加Fresco图片加载库
 	
 - 2.封装RecyclerView基类
 
 - 3.添加本地Json数据
 
-- 4.完成1.0版Demo 
+- 4.添加Butterknife，Fastjson 等Jar包
+
+- 4.完成1.0版本Demo
 	
 --- 
 

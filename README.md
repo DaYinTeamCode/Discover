@@ -34,7 +34,7 @@
 
 - 4.添加Butterknife，Fastjson 等Jar包
 
-- 4.完成1.0版本Demo
+- 5.完成1.0版本Demo
 	
 --- 
 
